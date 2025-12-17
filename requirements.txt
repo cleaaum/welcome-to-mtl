@@ -1,0 +1,7 @@
+dash==3.3.0
+dash-leaflet==1.0.15
+dash-mantine-components==2.4.0
+pandas==2.3.3
+gunicorn==23.0.0
+python-dotenv==1.2.1
+
